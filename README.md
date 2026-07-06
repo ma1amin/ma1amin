@@ -46,7 +46,7 @@ Interested in collaborations on:
 - AI-powered solutions
 - Regional digital transformation initiatives
 
-📧 [m.alamin@arabcon.com](mailto:m.alamin@arabcon.com)  
+📧 [mo7dalamin@gmail.com](mailto:mo7dalamin@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohalamin)  
 🌐 [ArabcOn](https://www.arabcon.com)  
 📱 +966581773494
