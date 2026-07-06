@@ -1,28 +1,50 @@
-# Mohammed Al Amin 🔐
+# 👋 Welcome to My Profile
 
-**Cybersecurity Leader | Founder @ ArabcOn**
+**Cybersecurity Leader | Founder @ ArabcOn | Building Secure Systems & Innovation Ecosystems**
 
-I build secure systems and lead red teams. Specialized in threat intelligence, malware analysis, and adversary emulation across government and enterprise sectors.
-
----
-
-## 🎯 What I Do
-
-- 🔴 Red team operations & ethical hacking
-- 🔍 Threat intelligence & malware analysis  
-- 🛡️ Security strategy & risk management
-- 🚀 Founded ArabcOn — a regional cybersecurity firm
+I focus on **security infrastructure**, **logistics technology**, and **innovation ecosystems** that drive digital transformation and regional development.
 
 ---
 
-## 🛠️ Skills
+## 📋 Featured Work
 
-**Core:** Threat Intelligence • Red Teaming • Reverse Engineering • Security Architecture  
+### **[🚀 Full Professional Portfolio](./PORTFOLIO.md)**
+
+Explore my comprehensive portfolio featuring:
+
+- **🔐 Strategic Regional Initiatives** – Arab Cybersecurity & Digital Intelligence Union, Sudan Innovation Ecosystem
+- **⚡ AI-Native Platforms** – Rapid Force Cyber Fusion, Securify, Faris Logistics
+- **🌐 Open Source Projects** – NorthStar (Open Resource Intelligence Graph)
+- **💼 Domain Expertise** – Cybersecurity, AI & Automation, Regional Development, Logistics & Operations
+
+---
+
+## 🎯 Key Focus Areas
+
+| Area | Expertise |
+|------|-----------|
+| **🔐 Cybersecurity** | Threat Intelligence, Red Teaming, Security Architecture, Governance |
+| **🤖 AI & Automation** | AI-native platform design, intelligent decision support, process automation |
+| **🌍 Regional Development** | Arab world connectivity, Vision 2030, innovation ecosystems |
+| **📦 Logistics & Operations** | Fleet management, supply chain optimization, operational intelligence |
+| **🔓 Open Source & Community** | Community-driven initiatives, knowledge graphs, resource intelligence |
+
+---
+
+## 🛠️ Expertise
+
+**Core:** Threat Intelligence • Red Teaming • Reverse Engineering • Security Architecture • AI-Native Platforms  
 **Certs:** CEH v9 • IPv6 Verified • Advanced Malware RE • CISO
 
 ---
 
-## 💬 Let's Connect
+## 📫 Let's Connect
+
+Interested in collaborations on:
+- Cybersecurity infrastructure projects
+- Innovation ecosystem development
+- AI-powered solutions
+- Regional digital transformation initiatives
 
 📧 [m.alamin@arabcon.com](mailto:m.alamin@arabcon.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/mohalamin)  
@@ -31,4 +53,8 @@ I build secure systems and lead red teams. Specialized in threat intelligence, m
 
 ---
 
-*Open to collaborations on security research, red team projects, and knowledge sharing.*
+<div align="center">
+
+**💡 Building secure systems and innovation ecosystems for regional transformation**
+
+</div>
